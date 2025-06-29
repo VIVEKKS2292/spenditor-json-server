@@ -1,4 +1,19 @@
 {
-  "expenses": [],
+  "expenses": [
+    {
+      "id": 1,
+      "amount": "250",
+      "category": "Food",
+      "date": "2025-06-28",
+      "description": "Lunch at cafe"
+    },
+    {
+      "id": 2,
+      "amount": "1200",
+      "category": "Travel",
+      "date": "2025-06-27",
+      "description": "Cab to airport"
+    }
+  ],
   "income": []
 }
